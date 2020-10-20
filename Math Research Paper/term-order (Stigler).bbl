@@ -1,0 +1,29 @@
+\providecommand{\bysame}{\leavevmode\hbox to3em{\hrulefill}\thinspace}
+\providecommand{\MR}{\relax\ifhmode\unskip\space\fi MR }
+% \MRhref is called by the amsart/book/proc definition of \MR.
+\providecommand{\MRhref}[2]{%
+  \href{http://www.ams.org/mathscinet-getitem?mr=#1}{#2}
+}
+\providecommand{\href}[2]{#2}
+\begin{thebibliography}{1}
+
+\bibitem{cox}
+D.~Cox, J.~Little, and D.~{O'Shea}, \emph{Ideals, varieties, and algorithms},
+  Springer Verlag, New York, 1997.
+
+\bibitem{M2}
+Daniel~R. Grayson and Michael~E. Stillman, \emph{Macaulay2, a software system
+  for research in algebraic geometry}, Available at
+  http://www.math.uiuc.edu/Macaulay2/.
+
+\bibitem{jarrah}
+Abdul Jarrah, Reinhard Laubenbacher, Brandilyn Stigler, and Michael Stillman,
+  \emph{Reverse-engineering of polynomial dynamical systems}, Advances in
+  Applied Mathematics \textbf{39} (2007), no.~4, 477--489.
+
+\bibitem{veliz}
+Alan Veliz-Cuba and Brandilyn Stigler, \emph{Boolean models can explain
+  bistability in the \textit{lac} operon}, Journal of Computational Biology
+  \textbf{18} (2011), no.~6.
+
+\end{thebibliography}

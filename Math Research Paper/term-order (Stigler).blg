@@ -1,0 +1,49 @@
+This is BibTeX, Version 0.99d (TeX Live 2013)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: term-order (Stigler).aux
+The style file: amsplain.bst
+Database file #1: references.bib
+Warning--I didn't find a database entry for "robbiano"
+Warning--missing pages in veliz
+You've used 4 entries,
+            2213 wiz_defined-function locations,
+            525 strings with 4544 characters,
+and the built_in function-call counts, 1195 in all, are:
+= -- 96
+> -- 67
+< -- 0
++ -- 26
+- -- 22
+* -- 101
+:= -- 202
+add.period$ -- 4
+call.type$ -- 4
+change.case$ -- 23
+chr.to.int$ -- 0
+cite$ -- 5
+duplicate$ -- 45
+empty$ -- 97
+format.name$ -- 22
+if$ -- 237
+int.to.chr$ -- 0
+int.to.str$ -- 4
+missing$ -- 8
+newline$ -- 22
+num.names$ -- 8
+pop$ -- 33
+preamble$ -- 1
+purify$ -- 19
+quote$ -- 0
+skip$ -- 27
+stack$ -- 0
+substring$ -- 45
+swap$ -- 5
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 14
+warning$ -- 1
+while$ -- 10
+width$ -- 5
+write$ -- 42
+(There were 2 warnings)
